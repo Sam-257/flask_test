@@ -1,0 +1,1 @@
+Put '/static/p.txt' to view this page directly.
